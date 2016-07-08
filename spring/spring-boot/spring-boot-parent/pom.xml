@@ -33,6 +33,7 @@
 
     <!-- Package as an executable jar -->
     <build>
+        <finalName>spring-boot-parent-sample</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
